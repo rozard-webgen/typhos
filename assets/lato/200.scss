@@ -2,5 +2,14 @@
     font-family: "Lato";
     font-display: swap;
     font-weight: 200;
-    src: url('/assets/typho/lato/normal/Lato-Thin.ttf') format('truetype');
+    font-style: normal;
+    src: url('/assets/typho/lato/normal/200.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Lato";
+    font-display: swap;
+    font-weight: 200;
+    font-style: italic;
+    src: url('/assets/fonts/typho/italic/200.ttf') format('truetype');
 }
